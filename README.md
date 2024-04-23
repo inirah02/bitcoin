@@ -1,4 +1,4 @@
-# Bitcoin Price Prediction with LSTM and Sentiment Analysis
+# Bitcoin Price Prediction with LSTM and VADER Sentiment Analysis
 
 This project aims to predict Bitcoin prices by integrating sentiment analysis from social media forums like Twitter and Reddit with Long Short-Term Memory (LSTM) networks.
 
